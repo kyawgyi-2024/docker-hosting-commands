@@ -44,3 +44,6 @@ docker stop minio-local     # stop MinIO
 docker logs minio-local     # show logs
 docker rm minio-local       # remove container
 
+# minio documentation
+https://docs.min.io/enterprise/aistor-object-store/
+
